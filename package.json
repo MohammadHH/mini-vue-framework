@@ -1,0 +1,22 @@
+{
+  "name": "mini-vue-framework",
+  "version": "1.0.0",
+  "description": "Implementing a mini vue for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadHH/mini-vue-framework.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "Mohammad Hamarsheh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammadHH/mini-vue-framework/issues"
+  },
+  "homepage": "https://github.com/MohammadHH/mini-vue-framework#readme"
+}
