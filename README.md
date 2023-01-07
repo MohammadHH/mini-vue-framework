@@ -14,7 +14,7 @@ The render function creates the virtual node, which gets sent to Vue to update t
 <img src="./render-function.jpg" style="width: 600px" />
 <img src="./dom-update.jpg" style="width: 600px" />
 
-## Anatomy of Vue 3?
+## Anatomy of Vue 3
 
 Vue 3’s core engine is made up of multiple parts.
 
